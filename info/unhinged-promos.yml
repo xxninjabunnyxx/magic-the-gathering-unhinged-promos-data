@@ -1,0 +1,16 @@
+---
+object: set
+id: eb16c832-baf5-4a7c-ac8b-3c35b31aa6df
+code: punh
+name: Unhinged Promos
+uri: https://api.scryfall.com/sets/eb16c832-baf5-4a7c-ac8b-3c35b31aa6df
+scryfall_uri: https://scryfall.com/sets/punh
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apunh&unique=prints
+released_at: '2004-11-19'
+set_type: promo
+card_count: 1
+parent_set_code: unh
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/unh.svg?1694404800
